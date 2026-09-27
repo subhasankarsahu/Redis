@@ -1,0 +1,17 @@
+{
+    "name": "01setup",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "node src/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express":"^5.1.0",
+        "ioredis":"^5.3.2",
+        "mongoose":"^8.0.0"
+    }
+}
